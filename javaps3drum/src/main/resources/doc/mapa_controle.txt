@@ -1,0 +1,11 @@
+BATERIA				CONTROLE
+----------------------------------------
+0 = azul quadrado 		TRIANGULO
+1 = verde X 			CIRCULO
+2 = vermelho circulo            X
+3 = amarelo triangulo           QUADRADO
+4 = pedal  			L1
+8 = back / select 		SELECT
+9 = start 			START
+12 = ps 			PS
+
